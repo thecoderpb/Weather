@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Open_weather">Powered By OpenWeather</string>
+</resources>
